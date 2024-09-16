@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mel-muhina
-- 👀 I’m interested in frontend development, games and horse riding.
+- 👀 I’m interested in frontend and backend development, games and horse riding.
 - 🌱 I’m currently learning various new technologies to support me on my journey.
 - 💞️ I’m looking to collaborate on fun new projects that can push me into new experiences.
-- 📫 How to reach me - https://mel-muhina.github.io/main/
+- 📫 How to reach me - mel-muhina.onrender.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I've lived in multiple countries and can speak 4 languages.
 
